@@ -1,0 +1,14 @@
+mesonet:
+	https://github.com/DariusAf/MesoNet
+	https://www.researchgate.net/publication/330791801_MesoNet_a_Compact_Facial_Video_Forgery_Detection_Network
+	https://arxiv.org/pdf/1809.00888
+resnet50 и InceptionNet и VGG:
+	https://www.kaggle.com/code/lightningblunt/deepfake-image-detection-using-resnet50/notebook
+Xception:
+	https://www.kaggle.com/code/mogpgo/xception-new-celeb-combined/notebook
+LipSync:
+	https://www.researchgate.net/publication/382109916_Exposing_Lip-syncing_Deepfakes_from_Mouth_Inconsistencies
+WildDeepfake dataset:
+	https://arxiv.org/pdf/2101.01456
+	https://github.com/OpenTAI/wild-deepfake
+	https://github.com/OpenTAI/wild-deepfake
